@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/thanos-ntelekos-59a520367">
     <img src="https://img.shields.io/badge/LinkedIn-Athanasios_Ntelekos-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://tryhackme.com/p/YOURUSERNAME">
+  <a href="https://tryhackme.com/p/ntelekosthanos">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme">
   </a>
 </p>
