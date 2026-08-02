@@ -26,11 +26,10 @@ My interests span **backend engineering**, **full-stack web development**, **alg
 
 # 🚀 Currently
 
-- 🎴 Building **MTG Night**, a mobile-first PWA for Magic: The Gathering playgroups
-- 🛏️ Building **DormDown**, a student accommodation platform
-- 🔐 Completing **TryHackMe** rooms and learning practical cybersecurity
-- 📚 Studying algorithms, databases, software engineering, and distributed systems
-- ⚡ Looking for a Backend / Full-Stack Software Engineering Internship
+-  Building **MTG Night**, a mobile-first PWA for Magic: The Gathering playgroups
+-  Completing **TryHackMe** rooms and learning practical cybersecurity
+-  Studying algorithms, databases, software engineering, and distributed systems
+-  Looking for a Backend / Full-Stack Software Engineering Internship
 
 ---
 
